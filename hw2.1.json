@@ -1,0 +1,22 @@
+{
+  "name": "Kostya",
+  "city": "Moscow",
+  "driveLicense": "True",
+  "threeFavotiteFilms": [
+    {
+      "filmName": "5 element",
+      "genre": "comedy",
+      "rating": 8
+    },
+    {
+      "filmName": "O chem govotyat muzhchiny?",
+      "genre": "comedy",
+      "rating": 10
+    },
+    {
+      "filmName": "Forrest Gump",
+      "genre": "drama",
+      "rating": 9
+    }
+  ]
+}
